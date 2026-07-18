@@ -1,44 +1,49 @@
 # cybropmc | Roblox Gameplay Programmer
 
-*Creating polished gameplay systems with Luau.* 
-
 🌐 **Live Portfolio:** [cybropmc.github.io](https://cybropmc.github.io)
 
-```lua
--- developer.lua
+*Creating polished gameplay systems with Luau.*
 
-local Developer = {}
-
-Developer.Username = "cybropmc"
-Developer.Role = "Roblox Gameplay Programmer"
-Developer.Engine = "Roblox Studio"
-Developer.Language = "Luau"
-
-return Developer
-About Me
+## 💙 About Me & My Promise
 I am a dedicated Roblox Gameplay Programmer focused on engineering scalable, efficient, and engaging systems. I bridge the gap between creative vision and technical execution, ensuring every line of code translates into a seamless player experience.
 
-Core Competencies
-Luau
+My promise for this portfolio and my work: Not flashy. Not overloaded. Just clean, modern, and memorable.
 
-Lua
+## 🧩 Core Competencies
+* **Luau**
+* **Lua**
+* **Roblox Studio**
+* **Roblox Development**
 
-Roblox Studio
+## 🚀 Selected Works
+* ⭐ **Club Tycoon** — *Gameplay Programmer*
+* 👻 **TRUST** — *Gameplay Programmer*
+* ⛏️ **Mine Factory** — *Gameplay Programmer*
 
-Roblox Development
+## 📞 Let's Connect
+* **Discord:** `cybropmc`
+* **Roblox:** `cybropmc`
+* **GitHub:** [github.com/cybropmc](https://github.com/cybropmc)
 
-Selected Works
-⭐ Club Tycoon — Gameplay Programmer
+---
 
-👻 TRUST — Gameplay Programmer
+## 📂 About This Repository (Portfolio v1.0)
+This repository contains the source code for my personal developer portfolio. The goal was to build one of the cleanest Roblox developer portfolios around—not because it has the most animations, but because it feels intentional.
 
-⛏ Mine Factory — Gameplay Programmer
+### 🎨 Style Guide
+Think of this as: **Roblox Creator Hub × VS Code × Apple**
+* Clean & Minimal
+* Professional & Premium
+* Easy to navigate
 
-Let's Connect
-Discord: cybropmc
+### 📜 Development Rules
+Everything here is written specifically for cybropmc.
+* **Tech Stack:** HTML5, CSS3, JavaScript (Vanilla)
+* **No frameworks.**
+* **No copied templates.**
 
-Roblox: cybropmc
-
-GitHub: @cybropmc
-
-Creating polished gameplay systems with Luau.
+### 📅 Development Schedule
+* **Sprint 1 — Foundation:** HTML structure, Navigation, Hero, About, Skills, Contact.
+* **Sprint 2 — Projects:** Project cards, popup windows, screenshot gallery.
+* **Sprint 3 — Polish:** Boot animation, mouse glow, scroll animations, responsive design.
+* **Sprint 4 — Release:** GitHub Pages hosting, this README, and final repository structure.
