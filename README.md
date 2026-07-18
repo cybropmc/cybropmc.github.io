@@ -24,11 +24,3 @@ portfolio and my work: Not flashy. Not overloaded. Just clean, modern, and memor
 * **Discord:** `cybropmc`
 * **Roblox:** `cybropmc`
 * **GitHub:** [github.com/cybropmc](https://github.com/cybropmc)
-
-
-
-### 📅 Development Schedule
-* **Sprint 1 — Foundation:** HTML structure, Navigation, Hero, About, Skills, Contact.
-* **Sprint 2 — Projects:** Project cards, popup windows, screenshot gallery.
-* **Sprint 3 — Polish:** Boot animation, mouse glow, scroll animations, responsive design.
-* **Sprint 4 — Release:** GitHub Pages hosting, this README, and final repository structure.
