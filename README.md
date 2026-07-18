@@ -1,8 +1,12 @@
-# cybropmc
+# cybropmc | Roblox Gameplay Programmer
 
-**Roblox Gameplay Programmer** | [cybropmc.github.io](https://cybropmc.github.io)
+*Creating polished gameplay systems with Luau.* 
+
+🌐 **Live Portfolio:** [cybropmc.github.io](https://cybropmc.github.io)
 
 ```lua
+-- developer.lua
+
 local Developer = {}
 
 Developer.Username = "cybropmc"
